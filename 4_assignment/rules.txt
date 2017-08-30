@@ -1,0 +1,21 @@
+(Import Beer)--->  (Tangerines),  Support = 0.04, Confidence = 0.71 
+(Frozen Chicken Wings and Vanilla Ice Cream)--->  (Blueberry Waffles),  Support = 0.03, Confidence = 0.71 
+(Vanilla Ice Cream and Bologna)--->  (Chicken Soup),  Support = 0.03, Confidence = 0.75 
+(Vanilla Ice Cream and Bologna)--->  (Blueberry Waffles),  Support = 0.03, Confidence = 0.74 
+(Vanilla Ice Cream and Microwave Popcorn)--->  (Blueberry Waffles),  Support = 0.03, Confidence = 0.80 
+(Import Beer and Creamy Peanut Butter)--->  (Tangerines),  Support = 0.03, Confidence = 0.84 
+(Tangerines and Import Beer)--->  (Creamy Peanut Butter),  Support = 0.03, Confidence = 0.72 
+(Bologna and Blueberry Waffles)--->  (Chicken Soup),  Support = 0.04, Confidence = 0.70 
+(Bologna and Microwave Popcorn)--->  (Chicken Soup),  Support = 0.03, Confidence = 0.71 
+(Chicken Soup and Paper Cups)--->  (Bologna),  Support = 0.03, Confidence = 0.76 
+(Bologna and Paper Cups)--->  (Chicken Soup),  Support = 0.03, Confidence = 0.72 
+(Blueberry Waffles and Dried Apricots)--->  (Bologna),  Support = 0.03, Confidence = 0.75 
+(Bologna and Dried Apricots)--->  (Blueberry Waffles),  Support = 0.03, Confidence = 0.75 
+(Bologna and Microwave Popcorn)--->  (Blueberry Waffles),  Support = 0.03, Confidence = 0.76 
+(Blueberry Waffles and Paper Cups)--->  (Bologna),  Support = 0.03, Confidence = 0.73 
+(Bologna and Paper Cups)--->  (Blueberry Waffles),  Support = 0.03, Confidence = 0.74 
+(Blueberry Waffles and Dried Apricots)--->  (Chicken Soup),  Support = 0.03, Confidence = 0.75 
+(Chicken Soup and Dried Apricots)--->  (Blueberry Waffles),  Support = 0.03, Confidence = 0.75 
+(Chicken Soup and Microwave Popcorn)--->  (Blueberry Waffles),  Support = 0.03, Confidence = 0.72 
+(Chicken Soup and Paper Cups)--->  (Blueberry Waffles),  Support = 0.03, Confidence = 0.75 
+(Blueberry Waffles and Beef Jerky)--->  (Chicken Soup),  Support = 0.03, Confidence = 0.72 
